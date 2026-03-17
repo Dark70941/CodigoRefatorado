@@ -1,0 +1,14 @@
+C:\Users\0031432512007\Documents\projeto\bin\Debug\net9.0\projeto.exe
+C:\Users\0031432512007\Documents\projeto\bin\Debug\net9.0\projeto.deps.json
+C:\Users\0031432512007\Documents\projeto\bin\Debug\net9.0\projeto.runtimeconfig.json
+C:\Users\0031432512007\Documents\projeto\bin\Debug\net9.0\projeto.dll
+C:\Users\0031432512007\Documents\projeto\bin\Debug\net9.0\projeto.pdb
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.AssemblyInfoInputs.cache
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.AssemblyInfo.cs
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.dll
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\refint\projeto.dll
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.pdb
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\projeto.genruntimeconfig.cache
+C:\Users\0031432512007\Documents\projeto\obj\Debug\net9.0\ref\projeto.dll
